@@ -11,9 +11,8 @@
 `esto es un codigo`
 
 ```
-Esto es 
-un bloque de 
-Codigo
+Esto es  un 
+Codigo 
 ```
 
 
